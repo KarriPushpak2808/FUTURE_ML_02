@@ -18,18 +18,18 @@ Model evaluation
 ## Screenshots
 
 ### Dataset Preview
-![Dataset](screenshots/dataset.png)
+![Dataset](screenshots/dataset.PNG)
 
 ### Model Accuracy
-![Accuracy](screenshots/accuracy.png)
+![Accuracy](screenshots/accuracy.PNG)
 
 ### Ticket Training
-![Training](screenshots/training.png)
+![Training](screenshots/training.PNG)
 
 ### Ticket Preprocessing
-![Preprocessing](screenshots/preprocessing.png)
+![Preprocessing](screenshots/preprocessing.PNG)
 
 ### Priority Tagging
-![Priority tagging](screenshots/prioritytagging.png)
+![Priority tagging](screenshots/prioritytagging.PNG)
 
 
