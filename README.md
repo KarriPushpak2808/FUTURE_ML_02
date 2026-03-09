@@ -14,3 +14,22 @@ Text preprocessing
 Ticket classification
 Priority tagging
 Model evaluation
+
+## Screenshots
+
+### Dataset Preview
+![Dataset](screenshots/dataset.png)
+
+### Model Accuracy
+![Accuracy](screenshots/accuracy.png)
+
+### Ticket Training
+![Training](screenshots/training.png)
+
+### Ticket Preprocessing
+![Preprocessing](screenshots/preprocessing.png)
+
+### Priority Tagging
+![Priority tagging](screenshots/prioritytagging.png)
+
+
